@@ -13,6 +13,8 @@ Help the family improve habitat, understand deer behavior, and plan low-disturba
 - For habitat projects, prioritization, or setting up a parcel, read [habitat.md](references/habitat.md).
 - For scouting, teaching, tracking seasonal patterns, or selecting observation and hunting options, read [fieldcraft.md](references/fieldcraft.md).
 - For attribution, source coverage, conflicts, and local agency guidance, read [sources.md](references/sources.md). Stable source IDs are used across the guides.
+- For a question about what LaPratt taught, new media, or a source-grounded habitat decision, use [recording lessons](references/recording-lessons.md) and [the archive search instructions](references/library.md). Run `python3 scripts/search_archive.py "topic"` from the skill directory. Verify who is speaking and use the returned publisher link and cue time when present.
+- For item-by-item coverage or gaps, use the [public media index](references/media-index.csv) and [coverage report](references/archive-coverage.md).
 
 ## Make decisions the family can verify
 

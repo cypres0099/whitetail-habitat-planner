@@ -4,6 +4,8 @@
 
 LaPratt looks at a property as a connected system. Start with quiet cover, ask where deer have reason to stay and travel in daylight, then arrange food and access around that pattern. His small linked cover and feeding areas and screened routes are candidate patterns. Preserve an existing good network when it already works. On a large farm, test the ideas within natural management units linked by travel and access before scaling across the whole farm. [L1–L7]
 
+Before drawing a food plot, mark the season when the adjacent cover and food are actually in use. In *Land Types*, LaPratt’s worked examples change as acorns, agricultural crops and cover change. In the 2019 BowHunter Planet interview, he describes browse along edges. On a working farm, test those ideas with a short native edge beside an untreated comparison. Photograph both from fixed points, record browse and flood effects in both, and record any maintenance trips that cross them. Evaluate a supplemental crop separately so the family can tell which change it is observing. [L10–L12]
+
 | Field condition | Test or response |
 |---|---|
 | Continuous closed canopy with little browse | Check for healthy mast trees, poor regeneration, browse pressure, invasive plants, and valuable timber. Compare a forester-designed opening or thinning with existing sunny edges. |

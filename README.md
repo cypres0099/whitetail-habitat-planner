@@ -9,3 +9,7 @@ Copy this repository folder into your Codex skills directory as `whitetail-habit
 > Use $whitetail-habitat-planner to review this boundary and aerial. Give me a field walk, three site hypotheses, and the smallest project worth trying in year one.
 
 The [source index](references/sources.md) links the material behind the skill and documents coverage. The guides can also be read directly on GitHub.
+
+The [media inventory](references/media-index.csv) lists publisher URLs and transcript availability for each recording. The [coverage notes](references/archive-coverage.md) explain which feeds were examined, how reposts are counted, and where coverage is incomplete.
+
+To answer from recordings, use [the archive search helper](scripts/search_archive.py). It searches your local transcripts when the library is available and the public source index in a standalone checkout. [Search instructions](references/library.md) · [Lessons drawn from recordings](references/recording-lessons.md)
