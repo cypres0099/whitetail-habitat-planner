@@ -2,6 +2,7 @@
 """Find attributable passages in the local library, or publisher links in a shared skill checkout."""
 import argparse
 import csv
+from collections import defaultdict
 import json
 import os
 import re
@@ -63,6 +64,11 @@ def citation(row, stamp):
 
 
 def matches(rows, query, library, args):
+    public_cues = defaultdict(list)
+    if not library:
+        with (SKILL / "references" / "topic-cues.csv").open(encoding="utf-8", newline="") as file:
+            for cue in csv.DictReader(file):
+                public_cues[(cue["platform"], cue["id"])].append(cue)
     results = []
     for row in rows:
         if args.platform and row["platform"] != args.platform:
@@ -80,12 +86,22 @@ def matches(rows, query, library, args):
                     score = relevance(query, text)
                     if score and (best is None or score > best[0]):
                         best = score, stamp, text
-        if best is None and not weight:
+        cue = None
+        cue_score = 0
+        for item in public_cues[(row["platform"], row["id"])]:
+            score = relevance(query, item["matched_term"] + " " + item["topic"])
+            if score > cue_score:
+                cue, cue_score = item, score
+        if best is None and not weight and cue is None:
             continue
         score, stamp, excerpt = best or (weight, None, None)
+        match_type = "speech" if best else "metadata"
+        if cue and cue_score >= weight:
+            score, stamp, match_type = cue_score, cue["cue"], "topic cue"
         results.append((score + (100 if best else 0), {
             "platform": row["platform"], "id": row["id"], "publisher": row["publisher"],
-            "title": title, "match": "speech" if best else "metadata", "time": stamp,
+            "title": title, "match": match_type, "time": stamp,
+            "topic": cue["topic"] if cue and match_type == "topic cue" else None,
             "source": citation(row, stamp), "excerpt": excerpt,
             "transcript_method": row.get("method") or row.get("speech_source"),
             "attribution_basis": row.get("evidence") or row.get("attribution_basis"),

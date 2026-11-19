@@ -12,4 +12,4 @@ The [source index](references/sources.md) links the material behind the skill an
 
 The [media inventory](references/media-index.csv) lists publisher URLs and transcript availability for each recording. The [coverage notes](references/archive-coverage.md) explain which feeds were examined, how reposts are counted, and where coverage is incomplete.
 
-To answer from recordings, use [the archive search helper](scripts/search_archive.py). It searches your local transcripts when the library is available and the public source index in a standalone checkout. [Search instructions](references/library.md) · [Lessons drawn from recordings](references/recording-lessons.md)
+To answer from recordings, use [the archive search helper](scripts/search_archive.py). It searches your local transcripts when the library is available and the public source index and timestamped topic cues in a standalone checkout. [Search instructions](references/library.md) · [Lessons drawn from recordings](references/recording-lessons.md)
