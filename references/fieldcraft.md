@@ -1,0 +1,19 @@
+# Whitetail fieldcraft and family instruction
+
+## Teach the decision in five short lessons
+
+1. **Habitat needs.** Walk an open field edge and a sheltered transition. Identify food, browse, bedding and escape cover, and how they connect. Have the learner point out an alternative if flood or pressure changes use.
+2. **Read sign with dates.** A track, rub, or scrape establishes possible use. Freshness, repeated time-stamped detections, travel direction, context, and current food help judge when and why. A large track or rub alone cannot establish buck identity, age or daytime use. Delineate likely bedding zones broadly until repeated direct evidence supports a smaller area. [L7–L9, R1]
+3. **Think in seasonal changes.** Early patterns can change with crop harvest, mast availability, foliage and disturbance. During the pre-rut, compare scrape and staging activity with camera times and nearby cover. During the rut, doe distribution and connecting cover may matter more than the prior route of an individual buck. Late season, compare current forage and quiet covered routes. Use local phenology and records. Calendar preferences or claims from Michigan are observations for testing. [L7–L9, M1–M2]
+4. **Read the route as well as the wind.** Check conditions at parking, along access, at the candidate, and on the way out. Valleys, ridges, draw mouths and river bottoms can produce variable airflow that a forecast misses. Field-check from a reachable edge, including likely timing of temperature or direction changes. Consider a farther observation point when the route exposes cover or routine family use will interfere.
+5. **Review each outing.** Record the prediction, route, actual wind, time, observations and effort. Ask what changed and what evidence would justify another visit. Judge the quality of family decisions as well as the number of sightings.
+
+## Use repeatable observations
+
+**Camera log.** Keep location ID and camera dates, downtime, view direction, detection zone, seasonal feature, temperature or local weather as available, and estimated light conditions tied to a local date. Group near-duplicate triggers from the same visit. Compare repeated activity per active camera-night across similar setups. Night images are evidence of use at that hour. A sequence from multiple locations suggests movement only if timing fits and identity is plausible. Avoid interpreting no detections as absence when coverage is weak.
+
+**Scouting pass.** Start with a safe, low-disturbance approach. Walk the outside and cross-check a likely pinch, edge, and trail connection. Log recent sign, cover height, passability, current forage, traffic, and wind behavior. Keep core cover visits purposeful and coordinate them with other work. Spot-check likely bedding only when the information is worth the disturbance.
+
+**Family hunt plan.** For each plausible location describe relevant phase, why deer might use it, parking and separate entry/exit choices where feasible, suitable conditions, and fallback or skip conditions. Account for children and guests, property boundaries, roads, neighboring activity, livestock, and family members at other locations. Use current MDC rules and hunter education for permitted activities, visibility requirements, elevated stand safety, and field conduct. Prearrange zones and check-ins. A flood-prone route, unstable tree, unresolved boundary, or unsafe overlap takes the location out of consideration until resolved. [M3, M9]
+
+**Harvest and herd planning.** Keep age estimates broad and treat family experience, crop impact, herd health, and lawful participation as legitimate objectives. Review MDC county-specific deer and CWD rules before changing plans for harvest, attractants, or carcass procedures. Use local browse and harvest records and ask an MDC specialist to help set any sex- or age-based management targets.
