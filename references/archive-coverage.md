@@ -13,7 +13,7 @@ Checked November 19, 2026. Counts use distinct platform IDs. A full episode, a s
 ## Coverage
 
 - Both Tony-named YouTube channels were enumerated. All 16 uploads have offline video and speech text. Eleven of the main channel’s 12 uploads supplied captions. High Oil Corn required local speech recognition. Both channels returned no Shorts tab. Publisher Shorts appear separately.
-- Tony’s business Facebook reel tab returned 27 separate videos. Its timeline was also scanned for video attachments and external episode links across 2,046 unique posts. The public API can expose a changing window of historical posts.
+- Tony’s business Facebook reel tab returned 27 separate videos. Its timeline was also scanned for video attachments and external episode links across 2,906 unique posts. The final page offered no further usable results.
 - Public Instagram reel feeds returned WHTL (490), Deer IQ (316), Habitat Podcast (477), Wired to Hunt (88). These totals cover all topics on the returned pages. Only matches enter the library. Searches using LaPratt’s name added cross-publisher leads. No Instagram profile operated by Tony himself was verified.
 - TikTok discovery combined name searches and the WHTL profile. The Deer IQ Instagram handle returned no public TikTok feed at the matching username. One TikTok short link from Tony’s Facebook timeline no longer resolved to a verified item.
 - The three Back 40 publisher transcripts are multi-guest episodes. BowHunter Planet #360 was recovered from its current publisher RSS after the original SoundCloud link returned 404.
